@@ -1,6 +1,6 @@
 # Poc autenticação JWT com Spring Cloud Gateway
 
-- Este repositório aborda como implementar autenticação JWT (JSON Web Token) utilizando Spring Cloud Gateway, uma abordagem moderna para roteamento e filtragem de requisições HTTP em aplicações Spring.
+- Este repositório aborda como implementar autenticação JWT (JSON Web Token) utilizando Spring Cloud Gateway.
 
 - [Site para gerar jwt](https://jwtbuilder.jamiekurtz.com/)
 
